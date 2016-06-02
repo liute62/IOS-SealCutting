@@ -65,7 +65,7 @@
         <!--印文输入-->
         <scene sceneID="Ry8-a9-ZRI">
             <objects>
-                <tableViewController id="xXC-Sd-HKN" customClass="FirstInputViewController" customModule="SealCutting" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController storyboardIdentifier="Main" id="xXC-Sd-HKN" customClass="FirstInputViewController" customModule="SealCutting" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" indicatorStyle="black" dataMode="static" style="plain" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="PlK-fc-IFe">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -228,7 +228,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Jts-hC-a8q" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="300" y="183"/>
+            <point key="canvasLocation" x="298" y="229"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="j4I-R5-AsN">

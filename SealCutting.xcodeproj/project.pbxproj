@@ -9,6 +9,20 @@
 /* Begin PBXBuildFile section */
 		D40B3F261CEA1CBB00597BAF /* TemplateSelected.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D40B3F251CEA1CBB00597BAF /* TemplateSelected.storyboard */; };
 		D40B3F291CEA1D9400597BAF /* DetailAdjust.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D40B3F281CEA1D9400597BAF /* DetailAdjust.storyboard */; };
+		D4564B0E1D0054C500D6AD1F /* 白舟九畳篆.otf in Sources */ = {isa = PBXBuildFile; fileRef = D4564B021D0054C500D6AD1F /* 白舟九畳篆.otf */; };
+		D4564B0F1D0054C500D6AD1F /* 白舟篆古印.ttf in Sources */ = {isa = PBXBuildFile; fileRef = D4564B031D0054C500D6AD1F /* 白舟篆古印.ttf */; };
+		D4564B101D0054C500D6AD1F /* 金文大篆体.ttf in Sources */ = {isa = PBXBuildFile; fileRef = D4564B041D0054C500D6AD1F /* 金文大篆体.ttf */; };
+		D4564B111D0054C500D6AD1F /* 经典繁方篆.TTF in Sources */ = {isa = PBXBuildFile; fileRef = D4564B051D0054C500D6AD1F /* 经典繁方篆.TTF */; };
+		D4564B121D0054C500D6AD1F /* 迷你繁篆书.ttf in Sources */ = {isa = PBXBuildFile; fileRef = D4564B061D0054C500D6AD1F /* 迷你繁篆书.ttf */; };
+		D4564B131D0054C500D6AD1F /* 王汉宗印篆体繁.ttf in Sources */ = {isa = PBXBuildFile; fileRef = D4564B071D0054C500D6AD1F /* 王汉宗印篆体繁.ttf */; };
+		D4564B141D0054C500D6AD1F /* 汉仪粗篆繁.ttf in Sources */ = {isa = PBXBuildFile; fileRef = D4564B081D0054C500D6AD1F /* 汉仪粗篆繁.ttf */; };
+		D4564B151D0054C500D6AD1F /* 汉仪篆书繁.ttf in Sources */ = {isa = PBXBuildFile; fileRef = D4564B091D0054C500D6AD1F /* 汉仪篆书繁.ttf */; };
+		D4564B161D0054C500D6AD1F /* 超世纪细角篆体繁.TTF in Sources */ = {isa = PBXBuildFile; fileRef = D4564B0A1D0054C500D6AD1F /* 超世纪细角篆体繁.TTF */; };
+		D4564B171D0054C500D6AD1F /* 经典繁角篆.TTF in Sources */ = {isa = PBXBuildFile; fileRef = D4564B0B1D0054C500D6AD1F /* 经典繁角篆.TTF */; };
+		D4564B181D0054C500D6AD1F /* 经典繁印篆.TTF in Sources */ = {isa = PBXBuildFile; fileRef = D4564B0C1D0054C500D6AD1F /* 经典繁印篆.TTF */; };
+		D4564B191D0054C500D6AD1F /* 華康新篆體.TTC in Sources */ = {isa = PBXBuildFile; fileRef = D4564B0D1D0054C500D6AD1F /* 華康新篆體.TTC */; };
+		D4564B1C1D00716400D6AD1F /* TemplateSelectedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4564B1B1D00716400D6AD1F /* TemplateSelectedViewController.swift */; };
+		D4564B1E1D008A5C00D6AD1F /* DetailAdjustViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4564B1D1D008A5C00D6AD1F /* DetailAdjustViewController.swift */; };
 		D48ECBBE1CEA101D00B4144B /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D48ECBBD1CEA101D00B4144B /* MainViewController.swift */; };
 		D48ECBC01CEA12FB00B4144B /* FirstInputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D48ECBBF1CEA12FB00B4144B /* FirstInputViewController.swift */; };
 		D4F9BD6B1CE9CA710055D2EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F9BD6A1CE9CA710055D2EC /* AppDelegate.swift */; };
@@ -39,6 +53,20 @@
 /* Begin PBXFileReference section */
 		D40B3F251CEA1CBB00597BAF /* TemplateSelected.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = TemplateSelected.storyboard; sourceTree = "<group>"; };
 		D40B3F281CEA1D9400597BAF /* DetailAdjust.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = DetailAdjust.storyboard; sourceTree = "<group>"; };
+		D4564B021D0054C500D6AD1F /* 白舟九畳篆.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "白舟九畳篆.otf"; path = "Resources/白舟九畳篆.otf"; sourceTree = "<group>"; };
+		D4564B031D0054C500D6AD1F /* 白舟篆古印.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "白舟篆古印.ttf"; path = "Resources/白舟篆古印.ttf"; sourceTree = "<group>"; };
+		D4564B041D0054C500D6AD1F /* 金文大篆体.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "金文大篆体.ttf"; path = "Resources/金文大篆体.ttf"; sourceTree = "<group>"; };
+		D4564B051D0054C500D6AD1F /* 经典繁方篆.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "经典繁方篆.TTF"; path = "Resources/经典繁方篆.TTF"; sourceTree = "<group>"; };
+		D4564B061D0054C500D6AD1F /* 迷你繁篆书.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "迷你繁篆书.ttf"; path = "Resources/迷你繁篆书.ttf"; sourceTree = "<group>"; };
+		D4564B071D0054C500D6AD1F /* 王汉宗印篆体繁.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "王汉宗印篆体繁.ttf"; path = "Resources/王汉宗印篆体繁.ttf"; sourceTree = "<group>"; };
+		D4564B081D0054C500D6AD1F /* 汉仪粗篆繁.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "汉仪粗篆繁.ttf"; path = "Resources/汉仪粗篆繁.ttf"; sourceTree = "<group>"; };
+		D4564B091D0054C500D6AD1F /* 汉仪篆书繁.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "汉仪篆书繁.ttf"; path = "Resources/汉仪篆书繁.ttf"; sourceTree = "<group>"; };
+		D4564B0A1D0054C500D6AD1F /* 超世纪细角篆体繁.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "超世纪细角篆体繁.TTF"; path = "Resources/超世纪细角篆体繁.TTF"; sourceTree = "<group>"; };
+		D4564B0B1D0054C500D6AD1F /* 经典繁角篆.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "经典繁角篆.TTF"; path = "Resources/经典繁角篆.TTF"; sourceTree = "<group>"; };
+		D4564B0C1D0054C500D6AD1F /* 经典繁印篆.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = "经典繁印篆.TTF"; path = "Resources/经典繁印篆.TTF"; sourceTree = "<group>"; };
+		D4564B0D1D0054C500D6AD1F /* 華康新篆體.TTC */ = {isa = PBXFileReference; lastKnownFileType = file; name = "華康新篆體.TTC"; path = "Resources/華康新篆體.TTC"; sourceTree = "<group>"; };
+		D4564B1B1D00716400D6AD1F /* TemplateSelectedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TemplateSelectedViewController.swift; sourceTree = "<group>"; };
+		D4564B1D1D008A5C00D6AD1F /* DetailAdjustViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailAdjustViewController.swift; sourceTree = "<group>"; };
 		D48ECBBD1CEA101D00B4144B /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		D48ECBBF1CEA12FB00B4144B /* FirstInputViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstInputViewController.swift; sourceTree = "<group>"; };
 		D4F9BD671CE9CA710055D2EC /* SealCutting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SealCutting.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -84,6 +112,7 @@
 			isa = PBXGroup;
 			children = (
 				D40B3F251CEA1CBB00597BAF /* TemplateSelected.storyboard */,
+				D4564B1B1D00716400D6AD1F /* TemplateSelectedViewController.swift */,
 			);
 			name = TemplateSelected;
 			sourceTree = "<group>";
@@ -102,13 +131,34 @@
 			isa = PBXGroup;
 			children = (
 				D40B3F281CEA1D9400597BAF /* DetailAdjust.storyboard */,
+				D4564B1D1D008A5C00D6AD1F /* DetailAdjustViewController.swift */,
 			);
 			name = DetailAdjust;
+			sourceTree = "<group>";
+		};
+		D4564B1A1D00550600D6AD1F /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				D4564B021D0054C500D6AD1F /* 白舟九畳篆.otf */,
+				D4564B031D0054C500D6AD1F /* 白舟篆古印.ttf */,
+				D4564B041D0054C500D6AD1F /* 金文大篆体.ttf */,
+				D4564B051D0054C500D6AD1F /* 经典繁方篆.TTF */,
+				D4564B061D0054C500D6AD1F /* 迷你繁篆书.ttf */,
+				D4564B071D0054C500D6AD1F /* 王汉宗印篆体繁.ttf */,
+				D4564B081D0054C500D6AD1F /* 汉仪粗篆繁.ttf */,
+				D4564B091D0054C500D6AD1F /* 汉仪篆书繁.ttf */,
+				D4564B0A1D0054C500D6AD1F /* 超世纪细角篆体繁.TTF */,
+				D4564B0B1D0054C500D6AD1F /* 经典繁角篆.TTF */,
+				D4564B0C1D0054C500D6AD1F /* 经典繁印篆.TTF */,
+				D4564B0D1D0054C500D6AD1F /* 華康新篆體.TTC */,
+			);
+			name = Fonts;
 			sourceTree = "<group>";
 		};
 		D4F9BD5E1CE9CA710055D2EC = {
 			isa = PBXGroup;
 			children = (
+				D4564B1A1D00550600D6AD1F /* Fonts */,
 				D4F9BD691CE9CA710055D2EC /* SealCutting */,
 				D4F9BD7E1CE9CA720055D2EC /* SealCuttingTests */,
 				D4F9BD891CE9CA720055D2EC /* SealCuttingUITests */,
@@ -291,6 +341,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4564B1E1D008A5C00D6AD1F /* DetailAdjustViewController.swift in Sources */,
+				D4564B0E1D0054C500D6AD1F /* 白舟九畳篆.otf in Sources */,
+				D4564B0F1D0054C500D6AD1F /* 白舟篆古印.ttf in Sources */,
+				D4564B101D0054C500D6AD1F /* 金文大篆体.ttf in Sources */,
+				D4564B1C1D00716400D6AD1F /* TemplateSelectedViewController.swift in Sources */,
+				D4564B111D0054C500D6AD1F /* 经典繁方篆.TTF in Sources */,
+				D4564B121D0054C500D6AD1F /* 迷你繁篆书.ttf in Sources */,
+				D4564B131D0054C500D6AD1F /* 王汉宗印篆体繁.ttf in Sources */,
+				D4564B141D0054C500D6AD1F /* 汉仪粗篆繁.ttf in Sources */,
+				D4564B151D0054C500D6AD1F /* 汉仪篆书繁.ttf in Sources */,
+				D4564B161D0054C500D6AD1F /* 超世纪细角篆体繁.TTF in Sources */,
+				D4564B171D0054C500D6AD1F /* 经典繁角篆.TTF in Sources */,
+				D4564B181D0054C500D6AD1F /* 经典繁印篆.TTF in Sources */,
+				D4564B191D0054C500D6AD1F /* 華康新篆體.TTC in Sources */,
 				D48ECBBE1CEA101D00B4144B /* MainViewController.swift in Sources */,
 				D4F9BD6B1CE9CA710055D2EC /* AppDelegate.swift in Sources */,
 				D48ECBC01CEA12FB00B4144B /* FirstInputViewController.swift in Sources */,
