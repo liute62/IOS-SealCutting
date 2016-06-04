@@ -19,8 +19,27 @@ class DetailAdjustViewController : UIViewController{
     }
     override func viewDidLoad() {
         resInit()
+        addSaveBtn()
     }
     
     func resInit() {
+    }
+    
+    
+    func addSaveBtn(){
+        let button =   UIButton(type: .System)
+        button.frame = CGRectMake(220, 0, 65, 30)
+        button.setTitleColor(UIColor.blackColor(), forState: UIControlState.Normal)
+        button.setTitle("保存", forState: .Normal)
+        button.addTarget(self, action: #selector(DetailAdjustViewController.saveDetail), forControlEvents: .TouchUpInside)
+        let rightBarBtn = UIBarButtonItem(customView: button)
+        let spacer = UIBarButtonItem(barButtonSystemItem: .FixedSpace, target: nil,
+                                     action: nil)
+        spacer.width = -10;
+        self.navigationItem.rightBarButtonItems = [spacer,rightBarBtn]
+    }
+    
+    func saveDetail(){
+
     }
 }
