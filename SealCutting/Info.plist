@@ -36,5 +36,15 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>fanjiaozuan.TTF</string>
+		<string>baizhou.otf</string>
+		<string>baizhouzuanggu.ttf</string>
+		<string>chaoshijixijiaozuan</string>
+		<string>fanzuishu.ttf</string>
+	</array>
 </dict>
 </plist>

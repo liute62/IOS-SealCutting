@@ -9,6 +9,18 @@
 import Foundation
 import UIKit
 
-class DetailAdjust : UIViewController{
+class DetailAdjustViewController : UIViewController{
     
+    
+    @IBOutlet weak var TextFont1: UILabel!
+    
+    @IBAction func mField(sender: AnyObject) {
+        
+    }
+    override func viewDidLoad() {
+        resInit()
+    }
+    
+    func resInit() {
+    }
 }
