@@ -23,8 +23,7 @@ class DetailAdjustViewController : UIViewController{
     }
     
     func resInit() {
-    }
-    
+    }    
     
     func addSaveBtn(){
         let button =   UIButton(type: .System)
@@ -40,6 +39,7 @@ class DetailAdjustViewController : UIViewController{
     }
     
     func saveDetail(){
-
+        let saveDetail = SaveDetailViewController()
+        self.navigationController?.pushViewController(saveDetail, animated: false)
     }
 }

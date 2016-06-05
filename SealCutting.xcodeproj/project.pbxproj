@@ -11,6 +11,12 @@
 		D40B3F291CEA1D9400597BAF /* DetailAdjust.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D40B3F281CEA1D9400597BAF /* DetailAdjust.storyboard */; };
 		D4564B1C1D00716400D6AD1F /* TemplateSelectedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4564B1B1D00716400D6AD1F /* TemplateSelectedViewController.swift */; };
 		D4564B1E1D008A5C00D6AD1F /* DetailAdjustViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4564B1D1D008A5C00D6AD1F /* DetailAdjustViewController.swift */; };
+		D47C41AD1D03D39E00295F88 /* SaveDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47C41AC1D03D39E00295F88 /* SaveDetailViewController.swift */; };
+		D47C41B01D03D59F00295F88 /* ZoneAdjustViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47C41AF1D03D59F00295F88 /* ZoneAdjustViewController.swift */; };
+		D47C41B21D03DF8700295F88 /* FontsAdjustViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47C41B11D03DF8700295F88 /* FontsAdjustViewController.swift */; };
+		D47C41B41D03DFA700295F88 /* OrderAdjustViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47C41B31D03DFA700295F88 /* OrderAdjustViewController.swift */; };
+		D47C41B61D03DFB900295F88 /* BorderAdjustViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47C41B51D03DFB900295F88 /* BorderAdjustViewController.swift */; };
+		D47C41B81D03DFE400295F88 /* ThickAdjustViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47C41B71D03DFE400295F88 /* ThickAdjustViewController.swift */; };
 		D48ECBBE1CEA101D00B4144B /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D48ECBBD1CEA101D00B4144B /* MainViewController.swift */; };
 		D48ECBC01CEA12FB00B4144B /* FirstInputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D48ECBBF1CEA12FB00B4144B /* FirstInputViewController.swift */; };
 		D4D649561D02EE1300B5C95D /* baizhou.otf in Resources */ = {isa = PBXBuildFile; fileRef = D4D649551D02EE1300B5C95D /* baizhou.otf */; };
@@ -48,6 +54,12 @@
 		D40B3F281CEA1D9400597BAF /* DetailAdjust.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = DetailAdjust.storyboard; sourceTree = "<group>"; };
 		D4564B1B1D00716400D6AD1F /* TemplateSelectedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TemplateSelectedViewController.swift; sourceTree = "<group>"; };
 		D4564B1D1D008A5C00D6AD1F /* DetailAdjustViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailAdjustViewController.swift; sourceTree = "<group>"; };
+		D47C41AC1D03D39E00295F88 /* SaveDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SaveDetailViewController.swift; sourceTree = "<group>"; };
+		D47C41AF1D03D59F00295F88 /* ZoneAdjustViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZoneAdjustViewController.swift; sourceTree = "<group>"; };
+		D47C41B11D03DF8700295F88 /* FontsAdjustViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontsAdjustViewController.swift; sourceTree = "<group>"; };
+		D47C41B31D03DFA700295F88 /* OrderAdjustViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderAdjustViewController.swift; sourceTree = "<group>"; };
+		D47C41B51D03DFB900295F88 /* BorderAdjustViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BorderAdjustViewController.swift; sourceTree = "<group>"; };
+		D47C41B71D03DFE400295F88 /* ThickAdjustViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThickAdjustViewController.swift; sourceTree = "<group>"; };
 		D48ECBBD1CEA101D00B4144B /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		D48ECBBF1CEA12FB00B4144B /* FirstInputViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstInputViewController.swift; sourceTree = "<group>"; };
 		D4D649551D02EE1300B5C95D /* baizhou.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = baizhou.otf; path = Resources/baizhou.otf; sourceTree = "<group>"; };
@@ -118,8 +130,21 @@
 			children = (
 				D40B3F281CEA1D9400597BAF /* DetailAdjust.storyboard */,
 				D4564B1D1D008A5C00D6AD1F /* DetailAdjustViewController.swift */,
+				D47C41AC1D03D39E00295F88 /* SaveDetailViewController.swift */,
+				D47C41AF1D03D59F00295F88 /* ZoneAdjustViewController.swift */,
+				D47C41B11D03DF8700295F88 /* FontsAdjustViewController.swift */,
+				D47C41B31D03DFA700295F88 /* OrderAdjustViewController.swift */,
+				D47C41B51D03DFB900295F88 /* BorderAdjustViewController.swift */,
+				D47C41B71D03DFE400295F88 /* ThickAdjustViewController.swift */,
 			);
 			name = DetailAdjust;
+			sourceTree = "<group>";
+		};
+		D47C41AE1D03D54100295F88 /* DetailAdjustOther */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = DetailAdjustOther;
 			sourceTree = "<group>";
 		};
 		D4F9BD5E1CE9CA710055D2EC = {
@@ -150,6 +175,7 @@
 		D4F9BD691CE9CA710055D2EC /* SealCutting */ = {
 			isa = PBXGroup;
 			children = (
+				D47C41AE1D03D54100295F88 /* DetailAdjustOther */,
 				D40B3F271CEA1D7700597BAF /* DetailAdjust */,
 				D40B3F241CEA1C8B00597BAF /* Main */,
 				D40B3F231CEA1C7700597BAF /* TemplateSelected */,
@@ -319,8 +345,14 @@
 			files = (
 				D4564B1E1D008A5C00D6AD1F /* DetailAdjustViewController.swift in Sources */,
 				D4564B1C1D00716400D6AD1F /* TemplateSelectedViewController.swift in Sources */,
+				D47C41B81D03DFE400295F88 /* ThickAdjustViewController.swift in Sources */,
 				D48ECBBE1CEA101D00B4144B /* MainViewController.swift in Sources */,
 				D4F9BD6B1CE9CA710055D2EC /* AppDelegate.swift in Sources */,
+				D47C41B41D03DFA700295F88 /* OrderAdjustViewController.swift in Sources */,
+				D47C41AD1D03D39E00295F88 /* SaveDetailViewController.swift in Sources */,
+				D47C41B01D03D59F00295F88 /* ZoneAdjustViewController.swift in Sources */,
+				D47C41B21D03DF8700295F88 /* FontsAdjustViewController.swift in Sources */,
+				D47C41B61D03DFB900295F88 /* BorderAdjustViewController.swift in Sources */,
 				D48ECBC01CEA12FB00B4144B /* FirstInputViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
