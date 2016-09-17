@@ -19,6 +19,7 @@
 		D47C41B81D03DFE400295F88 /* ThickAdjustViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47C41B71D03DFE400295F88 /* ThickAdjustViewController.swift */; };
 		D48ECBBE1CEA101D00B4144B /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D48ECBBD1CEA101D00B4144B /* MainViewController.swift */; };
 		D48ECBC01CEA12FB00B4144B /* FirstInputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D48ECBBF1CEA12FB00B4144B /* FirstInputViewController.swift */; };
+		D4A32A5B1D1307420036FC83 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4A32A5A1D1307420036FC83 /* MenuViewController.swift */; };
 		D4D649561D02EE1300B5C95D /* baizhou.otf in Resources */ = {isa = PBXBuildFile; fileRef = D4D649551D02EE1300B5C95D /* baizhou.otf */; };
 		D4D649581D02EF8700B5C95D /* baizhouzuangu.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D4D649571D02EF8700B5C95D /* baizhouzuangu.ttf */; };
 		D4D6495A1D02EF9600B5C95D /* chaoshijixijiaozuan.TTF in Resources */ = {isa = PBXBuildFile; fileRef = D4D649591D02EF9600B5C95D /* chaoshijixijiaozuan.TTF */; };
@@ -62,6 +63,7 @@
 		D47C41B71D03DFE400295F88 /* ThickAdjustViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThickAdjustViewController.swift; sourceTree = "<group>"; };
 		D48ECBBD1CEA101D00B4144B /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		D48ECBBF1CEA12FB00B4144B /* FirstInputViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstInputViewController.swift; sourceTree = "<group>"; };
+		D4A32A5A1D1307420036FC83 /* MenuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		D4D649551D02EE1300B5C95D /* baizhou.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = baizhou.otf; path = Resources/baizhou.otf; sourceTree = "<group>"; };
 		D4D649571D02EF8700B5C95D /* baizhouzuangu.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = baizhouzuangu.ttf; path = Resources/baizhouzuangu.ttf; sourceTree = "<group>"; };
 		D4D649591D02EF9600B5C95D /* chaoshijixijiaozuan.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = chaoshijixijiaozuan.TTF; path = Resources/chaoshijixijiaozuan.TTF; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 				D4F9BD6E1CE9CA710055D2EC /* Main.storyboard */,
 				D48ECBBD1CEA101D00B4144B /* MainViewController.swift */,
 				D48ECBBF1CEA12FB00B4144B /* FirstInputViewController.swift */,
+				D4A32A5A1D1307420036FC83 /* MenuViewController.swift */,
 			);
 			name = Main;
 			sourceTree = "<group>";
@@ -350,6 +353,7 @@
 				D4F9BD6B1CE9CA710055D2EC /* AppDelegate.swift in Sources */,
 				D47C41B41D03DFA700295F88 /* OrderAdjustViewController.swift in Sources */,
 				D47C41AD1D03D39E00295F88 /* SaveDetailViewController.swift in Sources */,
+				D4A32A5B1D1307420036FC83 /* MenuViewController.swift in Sources */,
 				D47C41B01D03D59F00295F88 /* ZoneAdjustViewController.swift in Sources */,
 				D47C41B21D03DF8700295F88 /* FontsAdjustViewController.swift in Sources */,
 				D47C41B61D03DFB900295F88 /* BorderAdjustViewController.swift in Sources */,

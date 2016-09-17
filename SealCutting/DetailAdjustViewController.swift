@@ -39,7 +39,8 @@ class DetailAdjustViewController : UIViewController{
     }
     
     func saveDetail(){
-        let saveDetail = SaveDetailViewController()
-        self.navigationController?.pushViewController(saveDetail, animated: false)
+        let detailAdjust = UIStoryboard(name: "DetailAdjust", bundle: NSBundle.mainBundle())
+        let addViewController: SaveDetailViewController = detailAdjust.instantiateViewControllerWithIdentifier("SaveDetail") as! SaveDetailViewController
+        self.navigationController?.pushViewController(addViewController, animated: false)
     }
 }
